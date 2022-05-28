@@ -1,0 +1,9 @@
+[DONE] print sum and average and diff of two numbers
+[DONE] demonstrate different forms of division
+[DONE] convert fahr to celsius
+[DONE] get a char and convert to int
+[DONE] print area of 4 walls of a room and cost of painting at rs 40 per meter square
+[DONE] roots of quadratic equation
+[DONE] check odd or even
+[DONE] check neg, pos or zero
+[DONE] print day, given number
