@@ -1,0 +1,158 @@
+1. write a program to calculate the average of three numbers
+2. Write a program  to find the average of any two numbers given by the user.
+3. write a program to calculate the sum, product, average and difference of two numbers.
+4. write a program to input any five numbers and display their sum array (DIM)
+5. Write a program in  C  to find square of a given number  .
+6. Write a program in  C  to find square root of a given number  .
+7. Write a program in  C  to find cube of a given number  .
+8. Write a program in  C  to find cube root of a given number  
+9. Write a program in  C  to find the sum of cube of two input numbers  
+10. Write a program to calculate and print the simple interest  .
+11. write a program to calculate distance travelled by a body. (Hint: s=ut+ (1/2) at2)
+12. write a program to read perpicular and base of a right angled triangle to find hypoteneous.
+
+
+13. write a program to input cost price and selling price from the keyboard to calculate profit.
+16. Write a program  to find the area and perimeter of square. [P=4L] [A=L2]
+15. Write a program  to find the perimeter of rectangle. [P=2(L+B)]
+14. Write a program  to find the area of rectangle. [A=L*B]
+17.Write a program in  C  to find the area of four wall of a room  .
+18.Write a program to find the cost of painting the four walls of a room.
+19.Write a program  to find area of the triangle.
+21.Write a program  to get radius of circle and then print its circumference. [C=2R]
+24.Write a program   to calculate volume of cylinder.
+22.Write a program  to get radius of the circle and display the area.
+ 25.  write a program to calculate volume of hemisphere. [ volume = 2/3 πR3]
+ 20.Write a program to calculate the area of triangle by  
+23.Write a program  to get radius of circle and then print its area and circumference.
+
+
+26.  , write a program to calculate area of sphere. [ area = 4πr2]
+27.Write a   to read the side of a cube. Calculate its volume and surface area. (Hint: vol=side 3 and sa=6 side2]
+28.Write a program    to calculate and print the volume of a box / cuboid. [ V=L*B*H]
+30.Write a program in  C  to find the total surface area of a box . .
+33.Write a program to input Fahrenheit and convert it into Celsius  - .
+29.Write a program to create a   . to input the value of length, breadth and height of a box. The program should calculate the area and volume of the box.
+31.Solve a quadratic equation ax2+bx+c=0 on the basis of the coefficient values a, b, and c   . [𝒙 =
+−𝒃±√𝒃𝟐 −𝟒𝒂𝒄 𝟐𝒂
+ 34.Write a program to convert USD(dollar) into NC (NEPALI currency) .
+ 32.Write a program  to get temperature in Celsius from the user and then print the temperature in Fahrenheit.(hint: F=9C/5+32)
+35.Write a program to convert NC (NEPALI currency) into IC (Indian Currency) DECLARE .
+36.WRITE A PROGRAM to ask a number as paisa and convert them into corresponding rupees only solve it   .
+
+
+39.Write a program to input seconds and convert into hours minutes and seconds   .
+42. , write a program to test whether the given number is completely divisible by 13 or not.
+37.Write a program to input distance in kilometre and convert into meter   .
+38.Write a program to input days and convert into years, months and days   .
+ 40.Write a convert 👎 to read a number in inches and convert it into feet and inches. [1 foot = 12 inches]
+ 41.Write a program to input any number and check whether the given no. is divisible by 3 and 7 or not   .
+43.Write a program to declare a to decide whether an input no is multiple of 5 or not.
+44.Write a program to find whether the given number is perfect number or not.
+45.Write a program to find whether the given number is perfect square number or not.
+46.Write a program to display only perfect square numbers between 1 to 100 - .
+48.Write a program to input any number and display whether it is odd or even   .
+
+
+
+47.Write a program to define a   which returns whether a input number is positive, negative or zero SGN .
+50.Write a program to input any number and check whether the given no. is positive or negative   .
+51.Input the age of a person and find out whether the person is eligible to drive or not   . [age >=16]
+52.Input the age of a person and find out whether the person can cast vote or not   . [age >=18]
+
+
+
+
+
+
+
+
+
+
+
+53.Write a program to enter any two numbers and display the smaller one   .
+54.Write a program to enter any three numbers and display the smallest one   .
+55.Write a program to enter any three numbers and display the middle number   .
+56.Write a program to input three different numbers in the main   then find the greatest number . .
+
+57.Write a program to input 20 different numbers in an array variable and find the largest and smallest number
+
+ 58.Write a program to input three sides of a triangle and determine whether a triangle can be formed or not.
+ 59.Write a program to input three sides of a triangle and determine whether a triangle is right angled triangle or not.
+60.Write a program to input three sides of a triangle and determine whether a triangle is equilateral, isosceles or scalene triangle or not.
+
+
+
+61.WAP to print the sum of the digits of a given numbers   .
+62.Write a program to enter a number and find the product of its digits   .
+63.Write a program to input number and find sum of even digits.
+64.Write a program to input number and count total no. of digits.
+ 65.Write a program to input number and display only odd digits.
+66.Write a program    to reverse and display the integer number having more than one digit passed as arguments from the main  . [Hint: 123 is reversed as 321].
+67.Write a program to input any number and check whether the given no. is palindrome or not.
+ 68.Write a program to display first 20 palindrome numbers.
+ 69.Write a program to display all palindrome numbers from 1 to 200.
+ 70.Write a program to input any number and check whether the given no. is Armstrong or not.
+ 71.Write a program to display first 5 Armstrong numbers.
+ 72.Write a program to display all Armstrong numbers from 1 to 500.
+
+
+ 73.Write a program to input number and check whether the given no. is prime or composite.
+ 74.Write a program to display all prime numbers from 1 to 100.
+ 75.Write a program to display first 20 prime numbers.
+ 76.Write a program to input number and check whether the given no. Composite or not.
+ 77.Write a program to input any number and display the factors.
+ 78.Write a program to calculate the factorial of an input number.
+ 79.Write a program to print the multiplication table of any input number up to tenth terms. [SEE 2075]
+ 80.Write a program in  C  to input any two different number and print HCF and LCM  
+81.Write a program in  C  to display the following series . . 5, 55, 555 up to 6th terms
+ 82.Write a program    to print series: 1, 11, 111, 1111, 11111
+ 83.Write a program to display 33333, 3333, 333, 33, 3 by  
+84.Write a   to display 1, 12, 123, 1234, 12345
+
+
+ 85.Write a   to display 1, 22, 333, 4444, 55555
+ 86.Write a   to display 12345, 1234, 123, 12, 1
+ 87.Write a   to display 55555, 4444, 333, 22, 1
+ 88.Write a   to display 54321, 5432, 543, 54, 5
+ 89.Write a   to display 5, 54, 543, 5432, 54321
+ 90.Write a  C  Program to generate 1800, 1600, 1400, 10th term.
+ 91.Write a   to display: 1, 121, 12321, 1234321, 123454321
+ 92.Write a   to display 123454321, 1234321, 12321, 121, 1
+93.Write a program to generate 9,28,14,7,22,1110th term
+ 94.Write a   to generate 7,22,11,3410th terms.
+ 95.Write a   to generate 22,11,34,17,52,26,13,40,20,10
+96.Write a program to print the following series by  : 1, 4, 9, 16.upto 10th term.
+
+
+ 97.Write a program to print 1, 8, 27, 64.upto 10th term.
+ 98.Write a display the following series: 999, 728, 511.upto 10th term.
+ 99.Write a program to display 315, 270, 215, 150 upto 10th term.
+ 100.Write a program to display 5, 10, 20, 35, 55.upto 10th term.
+ 101.Write a program to print the following series 2, 8, 18, 32, 10th terms  .  
+ 102.Write a program to display 2 , 4, 8, 14, 22 upto 10th terms
+ 103.Write a program to display 2, 4, 7, 11, 16 up to 10th terms.
+104.Write a program to display 2,6,12,20,30 up to 10th term
+ 105.Write a program to display 0,1, 3, 6, 10, 15 up to 20th terms.
+ 106.Write a program to display 1, 2, 4, 7, 11 up to 10th term.
+107.Write a program display : 2, 8, 18, 32upto 10 terms.
+108.Write a program to display 1,2,3,5,8.13th terms.
+
+ 110.Write a program to display: 1, 0, 1, 1, 2, 3. upto 10 th term.
+ 111.Write a program to generate 3, 3, 6, 9, 15, 24, 39, 63, 102, 165 .
+ 112.Write a program to generate series 2, 2,4,6,10,16,10th terms
+ 113.Write a to generate the series: 81, 64, 49, 1
+114.Write a program to display numbers 2, 4, 6, 20.
+115.Write a program to display numbers 100, 90, 80, .10
+116.Write a program to print the following serial 9, 7, 5,1
+117.Write a program to display product of all numbers from 4 to 8.
+118.Write a program to print first ten odd numbers. [SLC 2071 S]
+119.Write a program to print the natural numbers from 1 to 5 . .
+120.Write a  C  program to find the sum of square of first 10 integers.
+
+
+ 121.Write a program to display all even numbers from 2 to 100 also display its sum.
+ 122.Write a program to enter 10 different numbers then find out sum of even numbers
+123.Write a program to display first 13 odd numbers.
+124.Write a program to display first 19 even numbers.
+125.WAP to print first ten multiples of input number.
